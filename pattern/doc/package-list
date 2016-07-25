@@ -1,0 +1,13 @@
+wbs.composition_and_delegation
+wbs.design_by_contract
+wbs.pattern.dao
+wbs.pattern.factory
+wbs.pattern.factory_method
+wbs.pattern.fassade
+wbs.pattern.fassade.package1
+wbs.pattern.fassade.package2
+wbs.pattern.fassade.package3
+wbs.pattern.observer
+wbs.pattern.proxy
+wbs.pattern.singelton
+wbs.pattern.template_method
